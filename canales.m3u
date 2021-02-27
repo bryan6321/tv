@@ -301,3 +301,138 @@ http://10.1.0.2/pe_exitosa/index.m3u8
 
 #EXTINF:-1,Telecinco
 http://10.1.0.2/telecinco_colo/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest/scale-to-width-down/200?cb=20200209131121&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="NACIONALES",Caracol HD
+http://10.1.0.2/co_caracol_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rcn-hd.jpg" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="NACIONALES",RCN HD
+http://10.1.0.2/co_rcn_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="NACIONALES",Señal Colombia HD
+http://10.1.0.2/co_senal_colombia_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/800px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="NACIONALES",Canal 1 HD
+http://10.1.0.2/co_canal_uno_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/1920px-Se%C3%B1al_Institucional_logo.svg.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="NACIONALES",Canal Institucional HD
+http://10.1.0.2/co_canal_institucional_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Telemedell%C3%ADn2020definitivo.png/revision/latest/scale-to-width-down/250?cb=20200229190548" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="NACIONALES",Telemedellin HD
+http://10.1.0.2/co_telemedellin_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Canal-trece-colombia.svg/revision/latest/scale-to-width-down/250?cb=20180903040956" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="NACIONALES",Canal Trece HD
+http://10.1.0.2/co_canal13_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/300?cb=20151125134652" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CULTURALES",Love Nature HD
+http://10.1.0.2/co_love_nature_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest/scale-to-width-down/250?cb=20200402154655" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="INFANTILES",Zoo Moo HD
+http://10.1.0.2/co_zoo_moo_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wixstatic.com/media/0cd32b_3ba7d1e30bd34ab99e72bf554ac3e211~mv2.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="INFANTILES",Canal Infantil HD
+http://10.1.0.2/co_canal_infantil_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://cdn.dribbble.com/users/380922/screenshots/1190314/oye_1.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="INFANTILES",Oye Kids HD
+http://10.1.0.2/oye_kids/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20200320115508" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="INFANTILES",Disney HD
+http://10.1.0.2/co_disney_channel_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest/scale-to-width-down/200?cb=20180903211953" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="INFANTILES",Disney XD
+http://10.1.0.2/co_disney_xd_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20171209132605" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="DEPORTES",Eurosport HD
+http://10.1.0.2/e1hd_colo/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest/scale-to-width-down/200?cb=20180427153715" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="DEPORTES",ESPN 2 HD
+http://10.1.0.2/co_espn_2_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/250?cb=20160307235943" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="DEPORTES",ESPN 3 HD
+http://10.1.0.2/co_espn_3_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Fox_Sports_HD.svg/revision/latest/scale-to-width-down/150?cb=20190711185138" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="DEPORTES",Fox Sports HD
+http://10.1.0.2/co_fox_sports_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://cablemio.com/wp-content/uploads/2020/08/dhelogo.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CINE",Cine Familiar HD
+http://10.1.0.2/co_hollywood_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://cablemio.com/wp-content/uploads/2020/08/cinepremium.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CINE",Cine Premium HD
+http://10.1.0.2/co_cine_premium_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/91/f4/96/91f496fdd81a4a93576f89fdca2b9360.jpg" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CINE",Cine Hispano HD
+http://10.1.0.2/co_mi_cinema_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://cdn.dribbble.com/users/380922/screenshots/1190314/oye_1.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CINE",Oye Peliculas HD
+http://10.1.0.2/oye_peliculas/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://cdn.dribbble.com/users/380922/screenshots/1190314/oye_1.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CINE",Oye Action
+http://10.1.0.2/oye_action/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/AMC_%282019%29_%28Alternate%29.svg/revision/latest/scale-to-width-down/185?cb=20190725185130" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CINE",AMC HD
+http://10.1.0.2/amchd_colo/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Canal_Hollywood.svg/revision/latest/scale-to-width-down/200?cb=20100605101218" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CINE",Hollywood HD
+http://10.1.0.2/hollywoodhd_colo/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/TVAztecaCinema.png/revision/latest/scale-to-width-down/220?cb=20200205182835" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CINE",Azcinema HD
+http://10.1.0.2/co_azcinema_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Universal_TV_logo.svg/revision/latest/scale-to-width-down/250?cb=20210103235912" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CINE",Universal Channel HD
+http://10.1.0.2/co_universal_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Star_Life_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210223123607" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="ENTRETENIMIENTO",Fox Life HD
+http://10.1.0.2/co_fox_life_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/FX_LA_Main_Logo.svg/revision/latest/scale-to-width-down/250?cb=20201218151216" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="ENTRETENIMIENTO",FX HD
+http://10.1.0.2/co_fx_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/220px-CGTN_Documentary_logo.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CULTURALES",CGTN Documentary HD
+http://10.1.0.2/co_cgtn_documentary_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQExDM8qQ0zx8Q/company-logo_200_200/0/1519863310672?e=2159024400&v=beta&t=uvQHrdogPeBdhhDqTGokWE1TYcLlsxjiGFpR0yqX_Sg" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CULTURALES",Agrotendencia HD
+http://10.1.0.2/co_agro_tendencia/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20190502165637" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CULTURALES",Discovery Channel HD
+http://10.1.0.2/co_discovery_channel_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Atreseries_2020.svg/revision/latest/scale-to-width-down/175?cb=20200629062536" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="ENTRETENIMIENTO",A3S HD
+http://10.1.0.2/co_a3s_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="VARIEDADES",Sun Channel HD
+http://10.1.0.2/co_sun_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="VARIEDADES",Hola TV HD
+http://10.1.0.2/co_hola_tv_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="VARIEDADES",Antena 3 HD
+http://10.1.0.2/co_antena3_int_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="MUSICALES",La Kalle HD
+http://10.1.0.2/co_lakalle_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="MUSICALES",Mi Musica Reggaeton HD
+http://10.1.0.2/co_mimusica_reggaeton_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="MUSICALES",Mi Musica Salsa HD
+http://10.1.0.2/co_mimusica_salsa_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="MUSICALES",Mi Musica Romantica HD
+http://10.1.0.2/co_mimusica_romantica_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="MUSICALES",Mi Musica Popular HD
+http://10.1.0.2/co_mimusica_popular_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="MUSICALES",Top Latino HD
+http://10.1.0.2/pe_top_latino_tv_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="RELIGIOSOS",JN19TV HD
+http://10.1.0.2/pe_jn19tv_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="RELIGIOSO",Bethel HD
+http://10.1.0.2/co_bethel_bb_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="NOTICIAS",RT HD
+http://10.1.0.2/co_rt_hd/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sc2013.png/revision/latest/scale-to-width-down/425?cb=20160206213627&path-prefix=es" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="VARIEDADES",Viva TV HD
+http://10.1.0.2/pe_viva_tv_hd/index.m3u8
