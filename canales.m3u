@@ -104,11 +104,5 @@ http://10.1.0.2/co_fox_life_bb_hd/index.m3u8
 #EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/FX_LA_Main_Logo.svg/revision/latest/scale-to-width-down/250?cb=20201218151216" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="ENTRETENIMIENTO",FX HD
 http://10.1.0.2/co_fx_bb_hd/index.m3u8
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/220px-CGTN_Documentary_logo.png" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CULTURALES",CGTN Documentary HD
-http://10.1.0.2/co_cgtn_documentary_hd/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQExDM8qQ0zx8Q/company-logo_200_200/0/1519863310672?e=2159024400&v=beta&t=uvQHrdogPeBdhhDqTGokWE1TYcLlsxjiGFpR0yqX_Sg" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CULTURALES",Agrotendencia HD
-http://10.1.0.2/co_agro_tendencia/index.m3u8
-
 #EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20190502165637" tvg-name="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz" group-title="CULTURALES",Discovery Channel HD
 http://10.1.0.2/co_discovery_channel_bb_hd/index.m3u8
